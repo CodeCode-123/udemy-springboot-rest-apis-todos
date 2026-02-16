@@ -1,4 +1,4 @@
-package com.luv2code.springboot.todos.repository;
+package com.luv2code.springboot.todos.request;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotEmpty;
